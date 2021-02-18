@@ -9,6 +9,16 @@ enum class Compass {N, S, W, E};
 
 // Write your code here
 class GPS {
+    class GPS {
+  public: 
+  GPs ()
+  { 
+    m_Latitude = 0.0 , 90.0;
+   Compass = (N , S)
+  }
+    {
+      m_Longtitide = 0.0; 180.0;
+      Compass = ( W, E)
 
 };
 
